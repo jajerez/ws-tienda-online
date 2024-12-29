@@ -14,3 +14,5 @@ Maven 3.1
 Glassfish 4.1.0
 Jdk 1.8
 
+### swagger ###
+https://84.16.229.75:8181/ws-tienda-online/  (Actualizado 29-12-2024)
