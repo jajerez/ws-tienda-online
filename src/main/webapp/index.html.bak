@@ -38,8 +38,7 @@
       if (url && url.length > 1) {
         url = decodeURIComponent(url[1]);
       } else {
-        //url = "/ws-tienda-online/recursosweb/api-docs";
-        url = window.location.origin + window.location.pathname + "recursosweb/api-docs";
+        url = "/ws-tienda-online/recursosweb/api-docs";
       }
 
       hljs.configure({
