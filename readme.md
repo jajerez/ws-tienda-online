@@ -8,6 +8,8 @@ Modelo Web Services para la administracion de productos de la tienda
 
 Java 1.8 
 Maven 3.1
+Glasfish 4.1.0
+Netbeans 17
 
 ### Requisitos ###
 
